@@ -1,5 +1,5 @@
 {
-  "name": "nanocurrency-cli",
+  "name": "dogecurrency-cli",
   "description": "A CLI for the Nano cryptocurrency, allowing you to derive keys, generate seeds, hashes, signatures, proofs of work and blocks.",
   "version": "1.1.0",
   "author": {
